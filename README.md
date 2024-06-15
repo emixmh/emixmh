@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **emixmh/emixmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 💫 About Me:
+🌱 I’m currently learning Python!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emilyxhampton) 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
